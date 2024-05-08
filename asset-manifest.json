@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/next_word_prediction/static/css/main.fd90c365.css",
+    "main.js": "/next_word_prediction/static/js/main.9247437d.js",
+    "static/js/453.7b9f33e0.chunk.js": "/next_word_prediction/static/js/453.7b9f33e0.chunk.js",
+    "index.html": "/next_word_prediction/index.html",
+    "main.fd90c365.css.map": "/next_word_prediction/static/css/main.fd90c365.css.map",
+    "main.9247437d.js.map": "/next_word_prediction/static/js/main.9247437d.js.map",
+    "453.7b9f33e0.chunk.js.map": "/next_word_prediction/static/js/453.7b9f33e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd90c365.css",
+    "static/js/main.9247437d.js"
+  ]
+}
